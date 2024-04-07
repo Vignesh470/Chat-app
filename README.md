@@ -25,13 +25,15 @@ Users should be able to:
 
 ### Screenshot
 
+- Desktop Screenshot:
 ![Desktop screenshot](./design/solution%20for%20desktop.png)
+- Mobile Screenshot:
 ![Mobile screenshot](./design/solution%20for%20mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/chat-app-using-css-grid-with-bonus-initial-animation-on-page-load-4rfseBpkNn)
+- Live Site URL: [Add live site URL here](https://vignesh470.github.io/Chat-app/)
 
 ## My process
 
@@ -88,9 +90,10 @@ Users should be able to:
 
 - [Box-shadow](https://www.w3schools.com/cssref/css3_pr_box-shadow.php) - This helped me for setting good looking box shadow effects. I really liked this pattern and will use it going forward.
 - [HTML Input Type=Radio](https://www.w3schools.com/tags/att_input_type_radio.asp) - This is an amazing article which helped me finally understand Input type=radio. I'd recommend it to anyone still learning this concept.
-- [Custom radio button stying](https://reintech.io/blog/how-to-style-a-radio-button-with-css) - This article taught me to customize radio button style.
+- [Custom radio button styling](https://reintech.io/blog/how-to-style-a-radio-button-with-css) - This article taught me to customize radio button style.
 
 ## Author
 
 - Frontend Mentor - [@Vignesh470](https://www.frontendmentor.io/profile/Vignesh470)
 - Twitter - [@vignesh470](https://www.twitter.com/vignesh470)
+- LinkedIn - [Vignesh J](www.linkedin.com/in/vignesh-j-005a6291)
