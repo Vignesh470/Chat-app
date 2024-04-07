@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link for solution page](https://www.frontendmentor.io/solutions/chat-app-using-css-grid-with-bonus-initial-animation-on-page-load-4rfseBpkNn)
-- Live Site URL: Link for live page](https://vignesh470.github.io/Chat-app/)
+- Live Site URL: [Link for live page](https://vignesh470.github.io/Chat-app/)
 
 ## My process
 
